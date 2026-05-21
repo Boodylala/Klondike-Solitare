@@ -1,4 +1,4 @@
-**Klondike Solitaire - Code Architecture and Design Report**
+# **Klondike Solitaire - Code Architecture and Design Report**
 
 
 Project Overview:
